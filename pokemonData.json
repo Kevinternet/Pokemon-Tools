@@ -2,7 +2,7 @@
    {
     "name": "",
     "type": [""],
-    "sprite": "./pokeimages/.png",
+    "sprite": "./pokeimages/.webp",
     "stats": {
       "hp": 0,
       "atk": 0,
@@ -19,7 +19,7 @@
    {
     "name": "",
     "type": [""],
-    "sprite": "./pokeimages/.png",
+    "sprite": "./pokeimages/.webp",
     "stats": {
       "hp": 0,
       "atk": 0,
@@ -32,7 +32,7 @@
     "moves": [],
     "movePool": ["", "", "", "", ""],
     "mega": true,
-    "megaSprite": "./pokeimages/mega-.png",
+    "megaSprite": "./pokeimages/mega-.webp",
     "megaType": [""],
     "megaAbility": "",
     "megaStats": { 
@@ -44,10 +44,27 @@
     "spe": 0
      }
   },
+  {
+    "name": "Aegislash",
+    "type": ["Steel", "Ghost"],
+    "sprite": "./pokeimages/aegislash.webp",
+    "stats": {
+      "hp": 135,
+      "atk": 70,
+      "def": 160,
+      "spa": 70,
+      "spd": 160,
+      "spe": 80
+    },
+    "ability": "Stance Change",
+    "moves": [],
+    "movePool": ["King's Shield", "Double Hit", "Solar Blade", "Head Smash", "Sacred Sword", "Psycho Cut", "Poltergeist", "Night Slash", "Gyro Ball"],
+    "mega": false
+  },
    {
     "name": "Alakazam",
     "type": ["Psychic"],
-    "sprite": "../pokeimages/alakazam.png",
+    "sprite": "./pokeimages/alakazam.png",
     "stats": {
       "hp": 130,
       "atk": 70,
@@ -107,6 +124,23 @@
     "mega": false
   },
     {
+    "name": "Beartic",
+    "type": ["Ice"],
+    "sprite": "./pokeimages/beartic.webp",
+    "stats": {
+      "hp": 170,
+      "atk": 150,
+      "def": 100,
+      "spa": 90,
+      "spd": 100,
+      "spe": 70
+    },
+    "ability": "Slush Rush",
+    "moves": [],
+    "movePool": ["Thrash", "Dive", "Mud Shot", "Ice Fang", "Body Press", "Assurance", "Hard Press"],
+    "mega": false
+  },
+    {
     "name": "Ceruledge",
     "type": ["Fire", "Ghost"],
     "sprite": "./pokeimages/ceruledge.png",
@@ -121,6 +155,40 @@
     "ability": "Flash Fire",
     "moves": [],
     "movePool": ["Bitter Blade", "Throat Chop", "Shadow Sneak", "Close Combat", "Taunt"],
+    "mega": false
+  },
+   {
+    "name": "Corviknight",
+    "type": ["Steel", "Flying"],
+    "sprite": "./pokeimages/corviknight.webp",
+    "stats": {
+      "hp": 173,
+      "atk": 107,
+      "def": 125,
+      "spa": 73,
+      "spd": 105,
+      "spe": 87
+    },
+    "ability": "Mirror Armor",
+    "moves": [],
+    "movePool": ["Body Slam", "Drill Peck", "Fly", "Defog", "Roost", "Reversal", "Reflect", "Power Trip", "Fake Tears", "Steel Beam"],
+    "mega": false
+  },
+  {
+    "name": "Dedenne",
+    "type": ["Electric", "Fairy"],
+    "sprite": "./pokeimages/dedenne.webp",
+    "stats": {
+      "hp": 142,
+      "atk": 78,
+      "def": 77,
+      "spa": 101,
+      "spd": 87,
+      "spe": 121
+    },
+    "ability": "Cheek Pouch",
+    "moves": [],
+    "movePool": ["Covet", "Endure", "Sleep Talk", "Substitute", "Helping Hand", "Nuzzle", "Charge", "Magnet Rise", "Fling", "Misty Terrain", "Hyper Beam"],
     "mega": false
   },
      {
@@ -173,6 +241,23 @@
     "ability": "Competitive",
     "moves": [],
     "movePool": ["Flash Cannon", "Surf", "Protect", "Chilling Water", "Shadow Claw", "Knock Off", "Iron Defense", "Charm", "Facade"],
+    "mega": false
+  },
+  {
+    "name": "Espeon",
+    "type": ["Psychic"],
+    "sprite": "./pokeimages/espeon.webp",
+    "stats": {
+      "hp": 140,
+      "atk": 85,
+      "def": 80,
+      "spa": 150,
+      "spd": 115,
+      "spe": 130
+    },
+    "ability": "Magic Bounce",
+    "moves": [],
+    "movePool": ["Last Resort", "Mud-Slap", "Psychic Fangs", "Alluring Voice", "Bite", "Confuse Ray", "Gravity", "Magic Room", "Psychic Noise", "Future Sight", "Imprison"],
     "mega": false
   },
 
@@ -331,7 +416,98 @@
     "movePool": ["Thunder", "Yawn", "Sunny Day", "Pin Missile", "Dig","Detect", "Stored Power", "Curse", "Baby-Doll Eyes"],
     "mega": false
   },
+  {
+    "name": "Kingambit",
+    "type": ["Dark", "Steel"],
+    "sprite": "./pokeimages/kingambit.webp",
+    "stats": {
+      "hp": 175,
+      "atk": 155,
+      "def": 140,
+      "spa": 80,
+      "spd": 105,
+      "spe": 70
+    },
+    "ability": "Defiant",
+    "moves": [],
+    "movePool": ["Low Kick", "Kowtow Cleave", "Sucker Punch", "Guillotine", "Air Slash", "Rock Tomb", "Poison Jab", "Brick Break", "Rest", "Spite", "Metal Sound"],
+    "mega": false
+  },  
+  {
+    "name": "Lopunny",
+    "type": ["Normal"],
+    "sprite": "./pokeimages/lopunny.webp",
+    "stats": {
+      "hp": 140,
+      "atk": 96,
+      "def": 104,
+      "spa": 74,
+      "spd": 116,
+      "spe": 125
+    },
+    "ability": "Limber",
+    "moves": [],
+    "movePool": ["Mega Kick", "Solar Beam", "Fire Punch", "Pounce", "Bounce", "Triple Axel", "High Jump Kick", "Mirror Coat", "Brutal Swing", "Draining Kiss"],
+    "mega": true,
+    "megaSprite": "./pokeimages/mega-lopunny.webp",
+    "megaType": ["Normal", "Fighting"],
+    "megaAbility": "Scrappy",
+    "megaStats": { 
+    "hp": 140,
+    "atk": 156,
+    "def": 114,
+    "spa": 74,
+    "spd": 116,
+    "spe": 155
+     }
+  },
+    {
+    "name": "Mamoswine",
+    "type": ["Ice", "Ground"],
+    "sprite": "./pokeimages/mamoswine.png",
+    "stats": {
+      "hp": 185,
+      "atk": 155,
+      "def": 110,
+      "spa": 70,
+      "spd": 90,
+      "spe": 100
+    },
+    "ability": "Thick Fat",
+    "moves": [],
+    "movePool": ["Icicle Crash", "Earthquake", "Ice Shard", "Protect", "Stone Edge"],
+    "mega": false
+  },
   
+{
+  "name": "Metagross",
+  "type": ["Steel", "Psychic"],
+  "sprite": "./pokeimages/metagross.png",
+  "stats": {
+    "hp": 180,
+    "atk": 150,
+    "def": 150,
+    "spa": 95,
+    "spd": 110,
+    "spe": 100
+  },
+  "ability": "Clear Body",
+  "moves": [],
+  "movePool": ["Meteor Mash", "Zen Headbutt", "Ice Punch", "Protect", "Agility"],
+  "mega": true,
+"megaSprite": "./pokeimages/mega-metagross.webp",
+"megaType": ["Steel", "Psychic"],
+"megaAbility": "Tough Claws",
+"megaStats": {
+  "hp": 180,
+  "atk": 190,
+  "def": 150,
+  "spa": 130,
+  "spd": 130,
+  "spe": 130
+}
+
+},
   {
     "name": "Milotic",
     "type": ["Water"],
@@ -367,6 +543,54 @@
     "ability": "Drizzle",
     "moves": [],
     "movePool": ["Earth Power", "Protect", "Ice Beam", "Muddy Water", "Icy Wind"],
+    "mega": false
+  },
+
+  {
+  "name": "Raichu",
+  "type": ["Electric"],
+  "sprite": "./pokeimages/raichu.png",
+  "stats": {
+    "hp": 150,
+    "atk": 110,
+    "def": 95,
+    "spa": 130,
+    "spd": 100,
+    "spe": 140
+  },
+  "ability": "Lightning Rod",
+  "moves": [],
+  "movePool": ["Thunderbolt", "Volt Switch", "Grass Knot", "Protect", "Nasty Plot"],
+  "mega": true
+},
+
+
+
+  {
+    "name": "Sinistcha",
+    "type": ["Grass", "Ghost"],
+    "sprite": "./pokeimages/sinistcha.png",
+    "stats": {
+      "hp": 170,
+      "atk": 95,
+      "def": 140,
+      "spa": 125,
+      "spd": 135,
+      "spe": 60
+    },
+    "ability": "Hospitality",
+    "moves": [],
+    "movePool": [
+      "Matcha Gotcha",
+      "Shadow Ball",
+      "Giga Drain",
+      "Energy Ball",
+      "Leech Seed",
+      "Strength Sap",
+      "Protect",
+      "Calm Mind",
+      "Hex"
+    ],
     "mega": false
   },
 
@@ -409,83 +633,8 @@
      }
   },
 
-
-
-  {
-    "name": "Sinistcha",
-    "type": ["Grass", "Ghost"],
-    "sprite": "./pokeimages/sinistcha.png",
-    "stats": {
-      "hp": 170,
-      "atk": 95,
-      "def": 140,
-      "spa": 125,
-      "spd": 135,
-      "spe": 60
-    },
-    "ability": "Hospitality",
-    "moves": [],
-    "movePool": [
-      "Matcha Gotcha",
-      "Shadow Ball",
-      "Giga Drain",
-      "Energy Ball",
-      "Leech Seed",
-      "Strength Sap",
-      "Protect",
-      "Calm Mind",
-      "Hex"
-    ],
-    "mega": false
-  },
-
   
-{
-  "name": "Metagross",
-  "type": ["Steel", "Psychic"],
-  "sprite": "./pokeimages/metagross.png",
-  "stats": {
-    "hp": 180,
-    "atk": 150,
-    "def": 150,
-    "spa": 95,
-    "spd": 110,
-    "spe": 100
-  },
-  "ability": "Clear Body",
-  "moves": [],
-  "movePool": ["Meteor Mash", "Zen Headbutt", "Ice Punch", "Protect", "Agility"],
-  "mega": true,
-"megaSprite": "./pokeimages/mega-metagross.webp",
-"megaType": ["Steel", "Psychic"],
-"megaAbility": "Tough Claws",
-"megaStats": {
-  "hp": 180,
-  "atk": 190,
-  "def": 150,
-  "spa": 130,
-  "spd": 130,
-  "spe": 130
-}
 
-},
-{
-  "name": "Raichu",
-  "type": ["Electric"],
-  "sprite": "./pokeimages/raichu.png",
-  "stats": {
-    "hp": 150,
-    "atk": 110,
-    "def": 95,
-    "spa": 130,
-    "spd": 100,
-    "spe": 140
-  },
-  "ability": "Lightning Rod",
-  "moves": [],
-  "movePool": ["Thunderbolt", "Volt Switch", "Grass Knot", "Protect", "Nasty Plot"],
-  "mega": true
-},
 {
   "name": "Scizor",
   "type": ["Bug", "Steel"],
@@ -516,9 +665,60 @@
 
 },
 
-
-
-{
+  
+  {
+    "name": "Serperior",
+    "type": ["Grass"],
+    "sprite": "./pokeimages/serperior.png",
+    "stats": {
+      "hp": 160,
+      "atk": 95,
+      "def": 130,
+      "spa": 140,
+      "spd": 130,
+      "spe": 135
+    },
+    "ability": "Contrary",
+    "moves": [],
+    "movePool": ["Leaf Storm", "Giga Drain", "Glare", "Protect", "Dragon Pulse"],
+    "mega": false
+  },
+  {
+    "name": "Tinkaton",
+    "type": ["Fairy", "Steel"],
+    "sprite": "./pokeimages/tinkaton.png",
+    "stats": {
+      "hp": 165,
+      "atk": 120,
+      "def": 115,
+      "spa": 75,
+      "spd": 140,
+      "spe": 105
+    },
+    "ability": "Mold Breaker",
+    "moves": [],
+    "movePool": ["Gigaton Hammer", "Play Rough", "Knock Off", "Protect", "Swords Dance"],
+    "mega": false
+  },
+  {
+    "name": "Torkoal",
+    "type": ["Fire"],
+    "sprite": "./pokeimages/torkoal.webp",
+    "stats": {
+      "hp": 145,
+      "atk": 105,
+      "def": 160,
+      "spa": 105,
+      "spd": 90,
+      "spe": 40
+    },
+    "ability": "Drought",
+    "moves": [],
+    "movePool": ["Rapid Spin", "Temper Flare", "Ancient Power", "Clear Smog", "Stomping Tantrum", "Superpower", "Amnesia","Heavy Slam"],
+    "mega": false
+  },
+  
+  {
   "name": "Volcarona",
   "type": ["Bug", "Fire"],
   "sprite": "./pokeimages/volcarona.png",
@@ -534,59 +734,22 @@
   "moves": [],
   "movePool": ["Fiery Dance", "Bug Buzz", "Quiver Dance", "Giga Drain", "Protect"],
   "mega": false
-},
-{
-  "name": "Mamoswine",
-  "type": ["Ice", "Ground"],
-  "sprite": "./pokeimages/mamoswine.png",
-  "stats": {
-    "hp": 185,
-    "atk": 155,
-    "def": 110,
-    "spa": 70,
-    "spd": 90,
-    "spe": 100
   },
-  "ability": "Thick Fat",
-  "moves": [],
-  "movePool": ["Icicle Crash", "Earthquake", "Ice Shard", "Protect", "Stone Edge"],
-  "mega": false
-},
-
-{
-  "name": "Serperior",
-  "type": ["Grass"],
-  "sprite": "./pokeimages/serperior.png",
-  "stats": {
-    "hp": 160,
-    "atk": 95,
-    "def": 130,
-    "spa": 140,
-    "spd": 130,
-    "spe": 135
-  },
-  "ability": "Contrary",
-  "moves": [],
-  "movePool": ["Leaf Storm", "Giga Drain", "Glare", "Protect", "Dragon Pulse"],
-  "mega": false
-},
-{
-  "name": "Tinkaton",
-  "type": ["Fairy", "Steel"],
-  "sprite": "./pokeimages/tinkaton.png",
-  "stats": {
-    "hp": 165,
-    "atk": 120,
-    "def": 115,
-    "spa": 75,
-    "spd": 140,
-    "spe": 105
-  },
-  "ability": "Mold Breaker",
-  "moves": [],
-  "movePool": ["Gigaton Hammer", "Play Rough", "Knock Off", "Protect", "Swords Dance"],
-  "mega": false
-}
-
-
+  {
+    "name": "Whimsicott",
+    "type": ["Grass", "Fairy"],
+    "sprite": "./pokeimages/whimsicott.webp",
+    "stats": {
+      "hp": 135,
+      "atk": 87,
+      "def": 105,
+      "spa": 97,
+      "spd": 95,
+      "spe": 136
+    },
+    "ability": "Prankster",
+    "moves": [],
+    "movePool": ["Endeavor", "Seed Bomb", "Hurricane", "Poison Powder", "Light Screen", "Theif", "Moonblast"],
+    "mega": false
+  }
 ]
