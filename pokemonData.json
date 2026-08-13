@@ -2,7 +2,7 @@
    {
     "name": "",
     "type": [""],
-    "sprite": "/Pages/Pokemon/pokeimages/.png",
+    "sprite": "./pokeimages/.png",
     "stats": {
       "hp": 0,
       "atk": 0,
@@ -19,7 +19,7 @@
    {
     "name": "",
     "type": [""],
-    "sprite": "/Pages/Pokemon/pokeimages/.png",
+    "sprite": "./pokeimages/.png",
     "stats": {
       "hp": 0,
       "atk": 0,
@@ -32,7 +32,7 @@
     "moves": [],
     "movePool": ["", "", "", "", ""],
     "mega": true,
-    "megaSprite": "/Pages/Pokemon/pokeimages/mega-.png",
+    "megaSprite": "./pokeimages/mega-.png",
     "megaType": [""],
     "megaAbility": "",
     "megaStats": { 
@@ -47,7 +47,7 @@
    {
     "name": "Alakazam",
     "type": ["Psychic"],
-    "sprite": "/Pages/Pokemon/pokeimages/alakazam.png",
+    "sprite": "../pokeimages/alakazam.png",
     "stats": {
       "hp": 130,
       "atk": 70,
@@ -60,7 +60,7 @@
     "moves": [],
     "movePool": ["Protect", "Psychic", "Trick", "Energy Ball", "Expanding Force"],
     "mega": true,
-    "megaSprite": "/Pages/Pokemon/pokeimages/mega-alakazam.jpg",
+    "megaSprite": "./pokeimages/mega-alakazam.jpg",
     "megaType": ["Psychic"],
     "megaAbility": "Trace",
     "megaStats": { 
@@ -75,7 +75,7 @@
   {
   "name": "Arcanine",
   "type": ["Fire"],
-  "sprite": "/Pages/Pokemon/pokeimages/arcanine.png",
+  "sprite": "./pokeimages/arcanine.png",
   "stats": {
     "hp": 170,
     "atk": 140,
@@ -92,7 +92,7 @@
     {
     "name": "Basculegion",
     "type": ["Water", "Ghost"],
-    "sprite": "/Pages/Pokemon/pokeimages/basculegion.png",
+    "sprite": "./pokeimages/basculegion.png",
     "stats": {
       "hp": 195,
       "atk": 132,
@@ -109,7 +109,7 @@
     {
     "name": "Ceruledge",
     "type": ["Fire", "Ghost"],
-    "sprite": "/Pages/Pokemon/pokeimages/ceruledge.png",
+    "sprite": "./pokeimages/ceruledge.png",
     "stats": {
       "hp": 150,
       "atk": 145,
@@ -126,7 +126,7 @@
      {
     "name": "Ditto",
     "type": ["Normal"],
-    "sprite": "/Pages/Pokemon/pokeimages/ditto.webp",
+    "sprite": "./pokeimages/ditto.webp",
     "stats": {
       "hp": 123,
       "atk": 68,
@@ -143,7 +143,7 @@
   {
   "name": "Dragapult",
   "type": ["Dragon", "Ghost"],
-  "sprite": "/Pages/Pokemon/pokeimages/dragapult.png",
+  "sprite": "./pokeimages/dragapult.png",
   "stats": {
     "hp": 160,
     "atk": 135,
@@ -161,7 +161,7 @@
    {
     "name": "Empoleon",
     "type": ["Water"],
-    "sprite": "/Pages/Pokemon/pokeimages/empoleon.webp",
+    "sprite": "./pokeimages/empoleon.webp",
     "stats": {
       "hp": 159,
       "atk": 106,
@@ -181,7 +181,7 @@
     {
     "name": "Farigiraf",
     "type": ["Normal", "Psychic"],
-    "sprite": "/Pages/Pokemon/pokeimages/farigiraf.png",
+    "sprite": "./pokeimages/farigiraf.png",
     "stats": {
       "hp": 185,
       "atk": 110,
@@ -208,7 +208,7 @@
   {
   "name": "Feraligatr",
   "type": ["Water"],
-  "sprite": "/Pages/Pokemon/pokeimages/feraligatr.png",
+  "sprite": "./pokeimages/feraligatr.png",
   "stats": {
     "hp": 180,
     "atk": 150,
@@ -221,7 +221,7 @@
   "moves": [],
   "movePool": ["Liquidation", "Ice Punch", "Crunch", "Protect", "Dragon Dance"],
   "mega": true,
-"megaSprite": "/Pages/Pokemon/pokeimages/mega-feraligatr.webp",
+"megaSprite": "./pokeimages/mega-feraligatr.webp",
 "megaType": ["Water", "Dark"],
 "megaAbility": "Sheer Force",
 "megaStats": {
@@ -237,7 +237,7 @@
   {
     "name": "Garchomp",
     "type": ["Ground", "Dragon"],
-    "sprite": "/Pages/Pokemon/pokeimages/garchomp.png",
+    "sprite": "./pokeimages/garchomp.png",
     "stats": {
       "hp": 183,
       "atk": 150,
@@ -250,7 +250,7 @@
     "moves": [],
     "movePool": ["Rockslide", "Protect", "Earthquake", "Dragon Claw", "Outrage"],
     "mega": true,
-    "megaSprite": "/Pages/Pokemon/pokeimages/mega-garchomp.png",
+    "megaSprite": "./pokeimages/mega-garchomp.png",
     "megaType": ["Ground", "Dragon"],
     "megaAbility": "Sand Force",
     "megaStats": { 
@@ -266,7 +266,7 @@
   {
   "name": "Goodra",
   "type": ["Dragon"],
-  "sprite": "/Pages/Pokemon/pokeimages/goodra.png",
+  "sprite": "./pokeimages/goodra.png",
   "stats": {
     "hp": 190,
     "atk": 100,
@@ -283,7 +283,7 @@
 {
   "name": "Hydreigon",
   "type": ["Dark", "Dragon"],
-  "sprite": "/Pages/Pokemon/pokeimages/hydreigon.webp",
+  "sprite": "./pokeimages/hydreigon.webp",
   "stats": {
     "hp": 167,
     "atk": 125,
@@ -300,7 +300,7 @@
 {
     "name": "Incineroar",
     "type": ["Fire", "Dark"],
-    "sprite": "/Pages/Pokemon/pokeimages/incineroar.webp",
+    "sprite": "./pokeimages/incineroar.webp",
     "stats": {
       "hp": 170,
       "atk": 135,
@@ -317,7 +317,7 @@
   {
     "name": "Jolteon",
     "type": ["Electric"],
-    "sprite": "/Pages/Pokemon/pokeimages/jolteon.webp",
+    "sprite": "./pokeimages/jolteon.webp",
     "stats": {
       "hp": 140,
       "atk": 85,
@@ -335,7 +335,7 @@
   {
     "name": "Milotic",
     "type": ["Water"],
-    "sprite": "/Pages/Pokemon/pokeimages/milotic.png",
+    "sprite": "./pokeimages/milotic.png",
     "stats": {
       "hp": 170,
       "atk": 80,
@@ -355,7 +355,7 @@
   {
     "name": "Politoed",
     "type": ["Water"],
-    "sprite": "/Pages/Pokemon/pokeimages/politoed.png",
+    "sprite": "./pokeimages/politoed.png",
     "stats": {
       "hp": 165,
       "atk": 95,
@@ -373,7 +373,7 @@
   {
     "name": "Starmie",
     "type": ["Water", "Psychic"],
-    "sprite": "/Pages/Pokemon/pokeimages/starmie.png",
+    "sprite": "./pokeimages/starmie.png",
     "stats": {
       "hp": 155,
       "atk": 95,
@@ -396,7 +396,7 @@
       "Protect"
     ],
     "mega": true,
-    "megaSprite": "/Pages/Pokemon/pokeimages/mega-starmie.webp",
+    "megaSprite": "./pokeimages/mega-starmie.webp",
     "megaType": ["Water", "Psychic"],
     "megaAbility": "Huge Power",
     "megaStats": { 
@@ -414,7 +414,7 @@
   {
     "name": "Sinistcha",
     "type": ["Grass", "Ghost"],
-    "sprite": "/Pages/Pokemon/pokeimages/sinistcha.png",
+    "sprite": "./pokeimages/sinistcha.png",
     "stats": {
       "hp": 170,
       "atk": 95,
@@ -443,7 +443,7 @@
 {
   "name": "Metagross",
   "type": ["Steel", "Psychic"],
-  "sprite": "/Pages/Pokemon/pokeimages/metagross.png",
+  "sprite": "./pokeimages/metagross.png",
   "stats": {
     "hp": 180,
     "atk": 150,
@@ -456,7 +456,7 @@
   "moves": [],
   "movePool": ["Meteor Mash", "Zen Headbutt", "Ice Punch", "Protect", "Agility"],
   "mega": true,
-"megaSprite": "/Pages/Pokemon/pokeimages/mega-metagross.webp",
+"megaSprite": "./pokeimages/mega-metagross.webp",
 "megaType": ["Steel", "Psychic"],
 "megaAbility": "Tough Claws",
 "megaStats": {
@@ -472,7 +472,7 @@
 {
   "name": "Raichu",
   "type": ["Electric"],
-  "sprite": "/Pages/Pokemon/pokeimages/raichu.png",
+  "sprite": "./pokeimages/raichu.png",
   "stats": {
     "hp": 150,
     "atk": 110,
@@ -489,7 +489,7 @@
 {
   "name": "Scizor",
   "type": ["Bug", "Steel"],
-  "sprite": "/Pages/Pokemon/pokeimages/scizor.png",
+  "sprite": "./pokeimages/scizor.png",
   "stats": {
     "hp": 160,
     "atk": 155,
@@ -502,7 +502,7 @@
   "moves": [],
   "movePool": ["Bullet Punch", "U-turn", "X-Scissor", "Protect", "Swords Dance"],
   "mega": true,
-"megaSprite": "/Pages/Pokemon/pokeimages/mega-scizor.webp",
+"megaSprite": "./pokeimages/mega-scizor.webp",
 "megaType": ["Bug", "Steel"],
 "megaAbility": "Technician",
 "megaStats": {
@@ -521,7 +521,7 @@
 {
   "name": "Volcarona",
   "type": ["Bug", "Fire"],
-  "sprite": "/Pages/Pokemon/pokeimages/volcarona.png",
+  "sprite": "./pokeimages/volcarona.png",
   "stats": {
     "hp": 165,
     "atk": 75,
@@ -538,7 +538,7 @@
 {
   "name": "Mamoswine",
   "type": ["Ice", "Ground"],
-  "sprite": "/Pages/Pokemon/pokeimages/mamoswine.png",
+  "sprite": "./pokeimages/mamoswine.png",
   "stats": {
     "hp": 185,
     "atk": 155,
@@ -556,7 +556,7 @@
 {
   "name": "Serperior",
   "type": ["Grass"],
-  "sprite": "/Pages/Pokemon/pokeimages/serperior.png",
+  "sprite": "./pokeimages/serperior.png",
   "stats": {
     "hp": 160,
     "atk": 95,
@@ -573,7 +573,7 @@
 {
   "name": "Tinkaton",
   "type": ["Fairy", "Steel"],
-  "sprite": "/Pages/Pokemon/pokeimages/tinkaton.png",
+  "sprite": "./pokeimages/tinkaton.png",
   "stats": {
     "hp": 165,
     "atk": 120,

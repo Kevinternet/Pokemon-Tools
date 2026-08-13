@@ -16,7 +16,7 @@ function normalizeID(str) {
 
 let pokemonData = [];
 
-fetch("/Pages/Pokemon/pokemonData.json")
+fetch("pokemonData.json")
   .then(res => res.json())
   .then(data => {
     console.log("Loaded JSON:", data);
