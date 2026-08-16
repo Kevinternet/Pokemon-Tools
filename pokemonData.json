@@ -61,6 +61,34 @@
     "movePool": ["King's Shield", "Double Hit", "Solar Blade", "Head Smash", "Sacred Sword", "Psycho Cut", "Poltergeist", "Night Slash", "Gyro Ball"],
     "mega": false
   },
+  {
+    "name": "Aerodactyl",
+    "type": ["Rock", "Flying"],
+    "sprite": "./pokeimages/aerodactyl.webp",
+    "stats": {
+      "hp": 155,
+      "atk": 125,
+      "def": 85,
+      "spa": 80,
+      "spd": 95,
+      "spe": 150
+    },
+    "ability": "Unnerve",
+    "moves": [],
+    "movePool": ["Roost", "Hyper Beam", "Whirlwind", "Fire Fang", "Thunder Fang"],
+    "mega": true,
+    "megaSprite": "./pokeimages/mega-aerodactyl.webp",
+    "megaType": ["Rock", "Flying"],
+    "megaAbility": "Tough Claws",
+    "megaStats": { 
+    "hp": 155,
+    "atk": 155,
+    "def": 105,
+    "spa": 90,
+    "spd": 115,
+    "spe": 170
+     }
+  }, 
    {
     "name": "Alakazam",
     "type": ["Psychic"],
@@ -90,6 +118,23 @@
      }
   },
   {
+    "name": "Appletun",
+    "type": ["Grass", "Dragon"],
+    "sprite": "./pokeimages/appletun.webp",
+    "stats": {
+      "hp": 185,
+      "atk": 105,
+      "def": 100,
+      "spa": 120,
+      "spd": 100,
+      "spe": 50
+    },
+    "ability": "Ripen",
+    "moves": [],
+    "movePool": ["Apple Acid", "Draco Meteor", "Snore", "Grassy Glide", "Pounce"],
+    "mega": false
+  },
+  {
   "name": "Arcanine",
   "type": ["Fire"],
   "sprite": "./pokeimages/arcanine.png",
@@ -106,6 +151,23 @@
   "movePool": ["Flare Blitz", "Extreme Speed", "Burn Up", "Protect", "Wild Charge"],
   "mega": false
 },
+{
+    "name": "Archaludon",
+    "type": ["Steel", "Dragon"],
+    "sprite": "./pokeimages/archaludon.webp",
+    "stats": {
+      "hp": 165,
+      "atk": 125,
+      "def": 150,
+      "spa": 145,
+      "spd": 85,
+      "spe": 105
+    },
+    "ability": "Stamina",
+    "moves": [],
+    "movePool": ["Electro Shot", "Dragon Pulse", "Protect", "Flash Cannon", "Heavy Slam"],
+    "mega": false
+  },
     {
     "name": "Basculegion",
     "type": ["Water", "Ghost"],
